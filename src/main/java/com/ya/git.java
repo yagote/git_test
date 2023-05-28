@@ -13,5 +13,6 @@ public class git {
         System.out.println("hot-fix-test");
         System.out.println("push到远程仓库！");
         System.out.println("pull测试！");
+        System.out.println("github删除邮箱后提交！");
     }
 }
