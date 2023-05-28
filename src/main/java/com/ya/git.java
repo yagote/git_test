@@ -10,5 +10,6 @@ public class git {
         System.out.println("Hello,Git33333!");
         System.out.println("这是在分支hot-fix的修改");
         System.out.println("master-test");
+        System.out.println("hot-fix-test");
     }
 }
