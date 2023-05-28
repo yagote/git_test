@@ -11,5 +11,6 @@ public class git {
         System.out.println("这是在分支hot-fix的修改");
         System.out.println("master-test");
         System.out.println("hot-fix-test");
+        System.out.println("push到远程仓库！");
     }
 }
