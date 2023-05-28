@@ -12,5 +12,6 @@ public class git {
         System.out.println("master-test");
         System.out.println("hot-fix-test");
         System.out.println("push到远程仓库！");
+        System.out.println("pull测试！");
     }
 }
